@@ -1,0 +1,33 @@
+# Sistema operacional
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editores e configurações locais
+.vscode/
+.idea/
+*.code-workspace
+*.swp
+*.swo
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependências e caches
+node_modules/
+.cache/
+.parcel-cache/
+.eslintcache
+.stylelintcache
+
+# Relatórios e arquivos temporários de validação
+coverage/
+lighthouse-report.*
+html-validate-report.*
+test-results/
+tmp/
+temp/
+*.tmp
